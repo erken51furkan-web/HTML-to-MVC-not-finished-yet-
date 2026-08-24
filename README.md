@@ -3,11 +3,11 @@
  bir vibe code projesidir 
  
  <h2> Nasıl kullanılır   </h2>
- Template klasörü seçilir 
- Hedef klasör MVC prjeisinin içinde var olduğu klasör seçilir
-Yapay zeka modelini eğit butonuna basılır 
-ardından dönüştürmeyi başlat butonuna basılıp işlem bitilir 
-
+Template klasörü seçilir <br>
+Hedef klasör MVC prjeisinin içinde var olduğu klasör seçilir<br>
+Yapay zeka modelini eğit butonuna basılır <br>
+ardından dönüştürmeyi başlat butonuna basılıp işlem bitilir <br>
+<br>
 <ul>
   to do list 
   <li> README.md güncellenecke  </li>
